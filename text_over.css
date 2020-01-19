@@ -1,0 +1,24 @@
+  .pink {
+    position: relative;
+    background: url(style/images/art/p1.jpg);
+    width: 160px;
+    height: 120px;
+  }
+  .blue {
+    position: relative;
+    background: url(style/images/art/p2.jpg);
+    width: 160px;
+    height: 120px;
+  }
+  .purple {
+    position: relative;
+    background: url(style/images/art/p3.jpg);
+    width: 160px;
+    height: 120px;
+  }
+  .green {
+    position: relative;
+    background: url(style/images/art/p4.jpg);
+    width: 160px;
+    height: 120px;
+  }

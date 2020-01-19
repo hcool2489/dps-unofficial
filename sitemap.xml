@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+<!-- www.check-domains.com sitemap generator -->
+
+<url>
+   <loc>http://dps.22web.org/</loc>
+   <lastmod>2016-02-21T19:14:38+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>http://dps.22web.org/index.html</loc>
+   <lastmod>2016-02-21T19:14:38+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dps.22web.org/cid06.html</loc>
+   <lastmod>2016-02-21T18:58:44+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dps.22web.org/cid07.html</loc>
+   <lastmod>2016-02-21T18:58:47+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dps.22web.org/cid08.html</loc>
+   <lastmod>2016-02-21T18:58:39+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dps.22web.org/cid09.html</loc>
+   <lastmod>2016-02-19T15:12:11+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dps.22web.org/cid10.html</loc>
+   <lastmod>2016-02-19T15:12:44+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dps.22web.org/cid11.html</loc>
+   <lastmod>2016-02-19T15:13:07+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dps.22web.org/nid11_sid01.html</loc>
+   <lastmod>2016-02-19T15:13:50+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dps.22web.org/nid12_sid01.html</loc>
+   <lastmod>2017-02-27T15:13:50+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dps.22web.org/nid12_sid05.html</loc>
+   <lastmod>2017-02-27T15:13:50+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://dps.22web.org/contact.html</loc>
+   <lastmod>2016-02-19T15:13:27+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+</urlset>
